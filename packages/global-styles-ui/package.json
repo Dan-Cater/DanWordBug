@@ -62,7 +62,7 @@
 		"@wordpress/private-apis": "file:../private-apis",
 		"@wordpress/ui": "file:../ui",
 		"clsx": "^2.1.1",
-		"colord": "^2.9.3"
+		"colord": "^2.9.4"
 	},
 	"devDependencies": {
 		"@testing-library/dom": "^10.4.1",
