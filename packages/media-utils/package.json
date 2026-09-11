@@ -71,7 +71,7 @@
 		"@testing-library/user-event": "^14.6.1",
 		"@types/jest": "^30.0.0",
 		"@wordpress/preferences": "file:../preferences",
-		"vitest": "^4.1.10"
+		"vitest": "^4.1.11"
 	},
 	"peerDependencies": {
 		"@types/react": "^18 || ^19",
