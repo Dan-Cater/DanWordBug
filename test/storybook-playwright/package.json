@@ -27,7 +27,7 @@
 		"@types/node": "^20.19.39",
 		"@wordpress/element": "file:../../packages/element",
 		"@wordpress/storybook": "file:../../storybook",
-		"storybook": "^10.5.3"
+		"storybook": "^10.6.2"
 	},
 	"publishConfig": {
 		"access": "public"
